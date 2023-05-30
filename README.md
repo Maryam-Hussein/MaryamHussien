@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaryamHussien
 - 👀 I’m interested in ... Graphic Design
-- 🌱 I’m currently learning ... JAVA
-- 💞️ I’m looking to collaborate on ... OOP
+- 🌱 I’m currently learning ... ASP.NET
+- 💞️ Follow me on LinkedIn: [<hraf a>](https://www.linkedin.com/in/maryam-hussein-12b427221/)
 - 📫 to reach me ... Eng.MatyamHussein@gmail.com
 
 <!---
